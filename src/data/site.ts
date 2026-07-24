@@ -1,4 +1,4 @@
-﻿export const site = {
+export const site = {
     "domain":  "carroattrezzicatania.it",
     "template":  "salient",
     "description":  "Carroattrezzi a Catania e soccorso stradale a Catania: traino, recupero auto, assistenza moto e interventi rapidi in città e provincia.",
