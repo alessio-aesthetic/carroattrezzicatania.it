@@ -100,7 +100,7 @@ export const zones = [
     {
         "title":  "Carroattrezzi a Paternò",
         "name":  "Paternò",
-        "slug":  "paternÃ£Â²"
+        "slug":  "paterno"
     },
     {
         "title":  "Carroattrezzi a Adrano",
