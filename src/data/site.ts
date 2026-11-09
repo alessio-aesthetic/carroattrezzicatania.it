@@ -5,7 +5,6 @@ export const site = {
     "tel":  "+390950901842",
     "city":  "Catania",
     "name":  "Carroattrezzi Catania",
-    "address":  "Via Passo Gravina, 118 - 95125 Catania CT",
     "title":  "Carroattrezzi a Catania 24H | Soccorso stradale",
     "phone":  "095 090 1842",
     "email":  "assistenza@carroattrezzicatania.it"
